@@ -1,10 +1,10 @@
-# paulrobertlloyd.com
+# abanjara.netlify.app
 
 *My personal website. There are many like it, but this is mine.*
 
 ## Installation
 
-1. `git clone git@github.com:paulrobertlloyd/paulrobertlloyd-v4.git`
+1. `git clone git@github.com:elementsofai/abanjara.git`
 2. `cd paulrobertlloyd-v4`
 4. `npm install`
 5. `npm run build`
@@ -86,4 +86,4 @@ paulrobertlloyd.com
 └── README.md                    # This file
 ```
 
-© [Paul Robert Lloyd](https://paulrobertlloyd.com)
+© [Anuj Banjara](https://abanjara.netlify.app)
