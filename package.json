@@ -1,16 +1,16 @@
 {
-  "name": "paulrobertlloyd.com",
-  "version": "4.0.0",
-  "description": "The personal website of Paul Robert Lloyd",
+  "name": "abanjara.netlify.app",
+  "version": "1.0.0",
+  "description": "The personal website of Anuj Banjara",
   "keywords": [
     "indieweb",
     "personal-website"
   ],
-  "author": "Paul Robert Lloyd",
+  "author": "Anuj Banjara",
   "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://github.com/paulrobertlloyd/paulrobertlloyd-v4#readme",
-  "repository": "github:paulrobertlloyd/paulrobertlloyd-v4",
-  "bugs": "https://github.com/paulrobertlloyd/paulrobertlloyd-v4/issues",
+  "homepage": "https://github.com/elementsofai/abanjara#readme",
+  "repository": "github:elementsofai/abanjara",
+  "bugs": "https://github.com/elementsofai/abanjara/issues",
   "scripts": {
     "prebuild": "rm -rf www && mkdir -p www/assets",
     "build:files": "eleventy --quiet",
