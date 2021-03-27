@@ -1,6 +1,6 @@
 ---
-title: Hi, I’m Paul—
-summary: an independent designer, writer and occassional speaker based in Brighton, England. I help responsible organisations make purposeful digital products.
+title: Hi, I’m Anuj—
+summary: an independent designer, writer and occassional speaker based in Kathmandu, Nepal. I help responsible organisations make purposeful digital products.
 permalink: /
 priority: 1
 eleventyComputed:
