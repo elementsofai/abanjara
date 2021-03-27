@@ -24,7 +24,7 @@
     "watch:styles": "postcss src/assets/styles/app.css -o www/assets/styles/app.css --config etc/postcss.config.js --watch",
     "watch": "npm-run-all --parallel watch:*",
     "prelint:hyperlinks": "npm run build:files",
-    "lint:hyperlinks": "hyperlink www --canonicalroot https://paulrobertlloyd.com -r -i | tee hyperlink.tap | tap-spot",
+    "lint:hyperlinks": "hyperlink www --canonicalroot https://abanjara.com.np -r -i | tee hyperlink.tap | tap-spot",
     "lint:markdown": "markdownlint 'src/**/*.md'",
     "lint:scripts": "xo '**/*.js'",
     "lint:styles": "stylelint 'src/**/*.css'",
